@@ -1,0 +1,34 @@
+   *{
+    padding: 0;
+    margin: 0;
+    box-sizing: 0;
+   }
+   
+   
+   .div_1{
+    width: 10%;
+    background-color: burlywood;
+    color: aliceblue;
+    text-decoration: none;
+    position: fixed;
+    height: 100%;
+     
+
+
+   
+
+
+} .div_3{  
+    height: 100%;
+    display: flex;
+
+    
+    
+}.div_2{
+    margin-left: 10%;
+   
+     
+
+
+    
+}
